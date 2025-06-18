@@ -126,6 +126,19 @@ const experiences = [
 			"Design Maintainence and hosting maintenance.",
 		],
 	},
+	{
+		title: "Software Developer",
+		company_name: "Way to Web Pvt. Ltd.",
+		icon: "/company/wtw.jpg",
+		iconBg: "#E6DEDD",
+		date: "2024 - Present",
+		points: [
+			"Developing and maintaining Wordpress Site for A.V.M Auto The Car Body Shop based in Ahmedabad, Gujarat India.",
+			"Analyzing feedbacks and fixing bugs.",
+			"Search Engine Optimization.",
+			"Design Maintainence and hosting maintenance.",
+		],
+	},
 ];
 
 const testimonials = [
